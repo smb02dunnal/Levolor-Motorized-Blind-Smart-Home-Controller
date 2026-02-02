@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+devices.config.json
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pid
+*.pid
+*.seed
+*.pid.lock
+
+# System files
+.DS_Store
+Thumbs.db
+server/devices.config.json
+server/.env
