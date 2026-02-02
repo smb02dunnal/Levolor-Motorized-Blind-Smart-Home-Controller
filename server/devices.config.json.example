@@ -1,0 +1,11 @@
+{
+  "devices": {
+    "example_device": {
+      "thingId": "your-thing-id",
+      "deviceId": "your-device-id",
+      "upPropertyId": "your-up-property-id",
+      "downPropertyId": "your-down-property-id",
+      "debugLogPropertyId": "your-log-property-id"
+    }
+  }
+}
